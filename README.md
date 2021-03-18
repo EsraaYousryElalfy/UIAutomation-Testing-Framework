@@ -12,7 +12,7 @@
 
 ## About The Project
 
-This project for TrellaAssessment to test http://www.way2automation.com/protractor-angularjs-practice-website.html by using java, selenium and cucumber
+This project for UI Automatio Testing by using java, selenium and cucumber
 
 ### Built With
 The challenge built by:
